@@ -9,7 +9,7 @@
 
 # The Exodinomicon
 
-This tool takes a folder filled with .org files which are written in a 
+This tool takes a folder filled with .exo files which are written in a 
 specific format and transformes them to .html files. Additionally it creates
 an index.html file that contains all the .html files.
 
