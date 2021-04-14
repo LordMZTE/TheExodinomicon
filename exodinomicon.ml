@@ -1,1 +1,4 @@
-let () = print_endline "Hello, World!"
+type entry =
+  { title : string
+    body : string
+  }
